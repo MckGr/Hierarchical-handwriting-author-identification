@@ -154,8 +154,3 @@ Automatic writer identification systems can be used in:
 - digital archives
 - document authentication
 - security systems
-
----
-
-# Author
-**Maciej Grubek**
