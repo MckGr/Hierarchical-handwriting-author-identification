@@ -125,8 +125,7 @@ The final system predicts the author of a full handwritten page by aggregating p
 # Installation
 
 Clone the repository:
-git clone https://github.com/username/hierarchical-writer-identification
-cd hierarchical-writer-identification
+git clone https://github.com/MckGr/Hierarchical-handwriting-author-identification
 
 Install dependencies:
 pip install -r requirements.txt
