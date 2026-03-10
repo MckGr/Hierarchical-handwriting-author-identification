@@ -44,7 +44,7 @@ ResNet-50 was selected because:
 - it extracts both local and global visual features
 - it performs well in computer vision tasks
 
-Residual connections help mitigate the vanishing gradient problem and enable stable training of deep networks. :contentReference[oaicite:4]{index=4}
+Residual connections help mitigate the vanishing gradient problem and enable stable training of deep networks. 
 
 Transfer learning with pretrained weights is used to accelerate convergence and improve performance.
 
