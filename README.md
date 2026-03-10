@@ -12,7 +12,7 @@ The project was developed as part of an engineering thesis:
 
 # Overview
 
-Handwritten author identification is a computer vision and pattern recognition problem that aims to determine the writer of a handwritten document based on stylistic features of the handwriting. Instead of recognizing the text content, the system analyzes graphical characteristics such as stroke shapes, spacing, rhythm of writing, and spatial structure. :contentReference[oaicite:1]{index=1}
+Handwritten author identification is a computer vision and pattern recognition problem that aims to determine the writer of a handwritten document based on stylistic features of the handwriting. Instead of recognizing the text content, the system analyzes graphical characteristics such as stroke shapes, spacing, rhythm of writing, and spatial structure. 
 
 This project focuses on **text-independent writer identification**, meaning the model learns to recognize the author's writing style regardless of the content of the text. 
 
